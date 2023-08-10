@@ -1,0 +1,33 @@
+{
+"movies":[
+
+{  "title": "Guardiões das Galáxias",
+   "image": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia_%28filme%29"
+},
+{
+   "title": "Nada de Novo no Front",
+   "image": "https://cinemaeafins.com.br/wp-content/uploads/2023/02/nada-de-novo-no-front-poster.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Im_Westen_nichts_Neues_(filme)"
+},
+{  
+   "title": "The Forgotten Battle",
+   "image": "https://br.web.img3.acsta.net/c_310_420/pictures/21/10/06/15/28/1435725.jpg",
+   "url":   "https://en.wikipedia.org/wiki/The_Forgotten_Battle"
+},
+
+{   
+   "title": "Indiana Jones and the Dial of Destiny",
+   "image": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/indiana-jones-and-the-dial-of-destiny-poster.jpg",
+   "url":   "https://pt.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny"
+},
+   
+{
+   "title": "Flamin' Hot",
+   "image": "https://cinema10.com.br/upload/filmes/filmes_16930_flamin-hot-poster.jpg?default=poster",
+   "url":   "https://en.wikipedia.org/wiki/Flamin%27_Hot"
+
+    }]
+
+
+}
